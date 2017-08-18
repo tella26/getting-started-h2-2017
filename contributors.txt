@@ -26,3 +26,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (25) Ademola Abisayo Paul, @sayopaul , sayopaul2
 (26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
 Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+(28) TELLA Babatunde, slack :tella26 ,github: tella26
